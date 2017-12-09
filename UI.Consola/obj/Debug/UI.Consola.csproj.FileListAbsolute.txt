@@ -1,0 +1,14 @@
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\EntityFramework.dll
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\Services.dll
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\DataAccess1.dll
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\Services.pdb
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\EntityFramework.xml
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\bin\Debug\DataAccess1.pdb
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\Fly\Desktop\abm1\ABM\UI.Consola\obj\Debug\UI.Consola.pdb

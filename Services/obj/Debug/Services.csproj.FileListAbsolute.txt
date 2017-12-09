@@ -1,0 +1,22 @@
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\Services.dll.config
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\Services.pdb
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\DataAccess1.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\DataAccess1.pdb
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\DataAccess1.dll.config
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\obj\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\obj\Debug\Services.pdb
+C:\Users\Fly\Desktop\abm1\ABM\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Fly\Desktop\abm1\ABM\Services\obj\Debug\Services.dll
+C:\Users\Fly\Desktop\abm1\ABM\Services\obj\Debug\Services.pdb
+C:\Users\Fly\Desktop\abm1\ABM\Services\bin\Debug\Services.dll.config
+C:\Users\Fly\Desktop\abm1\ABM\Services\bin\Debug\Services.dll
+C:\Users\Fly\Desktop\abm1\ABM\Services\bin\Debug\Services.pdb
+C:\Users\Fly\Desktop\abm1\ABM\Services\bin\Debug\DataAccess1.dll
+C:\Users\Fly\Desktop\abm1\ABM\Services\bin\Debug\EntityFramework.dll
+C:\Users\Fly\Desktop\abm1\ABM\Services\bin\Debug\DataAccess1.pdb
+C:\Users\Fly\Desktop\abm1\ABM\Services\bin\Debug\EntityFramework.xml

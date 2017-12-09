@@ -1,0 +1,10 @@
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\bin\Debug\DataAccess1.dll.config
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\bin\Debug\DataAccess1.dll
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\bin\Debug\DataAccess1.pdb
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\bin\Debug\EntityFramework.dll
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\bin\Debug\EntityFramework.xml
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\obj\Debug\DataAccess1.csprojResolveAssemblyReference.cache
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\obj\Debug\DataAccess1.dll
+C:\Users\Fly\Desktop\abm1\ABM\DataAccess1\obj\Debug\DataAccess1.pdb
